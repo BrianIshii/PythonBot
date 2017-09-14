@@ -1,0 +1,17 @@
+{
+   "sports": [
+      {
+         "sport": "baseball",
+         "team": "Giants"
+      },
+      {
+         "sport": "basketball",
+         "team": "Warriors"
+      },
+      {
+         "sport": "football",
+         "team": "49ers"
+      }
+   ]
+}
+
